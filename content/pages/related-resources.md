@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to external websites on Kurdish language,
+  linguistics, and ethnicity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

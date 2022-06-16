@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description and information on meeting
+  times and readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 1 session / week, 3 hours / session
 Course Description
 ------------------
 
-**Syllabus** ([PDF]({{< baseurl >}}/resources/syllabus))
+**Syllabus** ({{% resource_link 3b43e987-fe4b-82c8-edbb-3d08d4c29989 "PDF" %}})
 
 This course is designed to allow participants to engage in the exploration of the grammatical structure of a language that is unknown to them (and typically to the instructors as well). In some ways it simulates traditional field methods research. In terms of format, we work in both group and individual meetings with the consultant. Each student identifies some grammatical construction (e.g. wh questions, agreement, palatalization, interrogative intonation) to focus their research: they elicit and share data and write a report on the material gathered that is to be turned in at the end of the term. Ideally, we can put together a volume of grammatical sketches.
 

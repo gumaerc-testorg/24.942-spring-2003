@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides details on course methodology.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Methodology
