@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides details on course methodology.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Methodology
 uid: 1f15b302-9a9a-4ec4-4416-9b27032c469d
 ---
