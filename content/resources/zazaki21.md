@@ -5,6 +5,7 @@ file: /courses/24-942-grammar-of-a-less-familiar-language-spring-2003/92daa8b256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: zazaki21.pdf
 uid: 92daa8b2-5681-c67f-8d50-84b7dffd59fd
 ---
 Day 9 Notes
-
