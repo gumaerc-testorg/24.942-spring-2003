@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Day 8 Notes
-file: /ol-ocw-studio-app/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/f776582cfd5af148d95237f9ce05642b_zazakinotes.pdf
+file: /courses/24-942-grammar-of-a-less-familiar-language-spring-2003/f776582cfd5af148d95237f9ce05642b_zazakinotes.pdf
 file_size: 33120
 file_type: application/pdf
 learning_resource_types:
