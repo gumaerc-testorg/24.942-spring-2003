@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hiatus Notes
-file: /ol-ocw-studio-app/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/188052d7a03fa533cbff4ff6ab6eeec2_hiatusnotes.pdf
+file: /courses/24-942-grammar-of-a-less-familiar-language-spring-2003/188052d7a03fa533cbff4ff6ab6eeec2_hiatusnotes.pdf
 file_size: 43905
 file_type: application/pdf
 learning_resource_types:
