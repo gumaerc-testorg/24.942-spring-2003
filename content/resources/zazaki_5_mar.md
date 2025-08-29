@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-942-grammar-of-a-less-familiar-language-spring-2003/9fd679be94f8cf92bcba429a5d9ca7bf_zazaki_5_mar.pdf
+file: /ol-ocw-studio-app/courses/24-942-grammar-of-a-less-familiar-language-spring-2003/9fd679be94f8cf92bcba429a5d9ca7bf_zazaki_5_mar.pdf
 file_size: 29543
 file_type: application/pdf
 learning_resource_types:
