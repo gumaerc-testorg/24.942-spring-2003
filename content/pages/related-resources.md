@@ -8,5 +8,5 @@ title: Related Resources
 uid: 95c82af3-ae51-020e-d52e-8683a9663380
 ---
 
-[Kurd\_lal: Kurdish Language and Linguistics](http://archive.is/fCn77)  
-[Ethnic Differentiation among the Kurds: Kurmancî, Kizilbash and Zaza](http://members.tripod.com/~zaza_kirmanc/research/paul.htm)
+{{% resource_link "44589c4c-7171-4571-87a4-26261bfcf36c" "Kurd\_lal: Kurdish Language and Linguistics" %}}  
+{{% resource_link "1effd7ca-04c9-441e-89f7-b0c480bef9ca" "Ethnic Differentiation among the Kurds: Kurmancî, Kizilbash and Zaza" %}}
